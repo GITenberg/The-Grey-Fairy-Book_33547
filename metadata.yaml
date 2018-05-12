@@ -1,0 +1,51 @@
+_repo: The-Grey-Fairy-Book_33547
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: archival
+  image_path: 33547-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: A collection of thirty-five fairy tales from the folklore of Lithuania,
+  Africa, Germany, Greece, and France.
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+tableOfContents: Donkey skin -- The goblin pony -- An impossible enchantment -- The
+  story of Dschemil and Dschemila -- Janni and the draken -- The partnership of the
+  thief and the liar -- Fortunatus and his purse -- The goat-faced girl -- What came
+  of picking flowers -- The story of Bensurdatu -- The magician's horse -- The little
+  gray man -- Herr Lazarus and the draken -- The story of the Queen of the Flowery
+  Isles -- Udea and her seven brothers -- The white wolf -- Mohammed with the magic
+  finger -- Bobino -- The dog and the sparrow -- The story of the three sons of Hali
+  -- The story of the fair Circassians -- The jackal and the spring -- The bear --
+  The sunchild -- The daughter of Buk Ettemsuch -- Laughing eye and weeping eye, or
+  the limping fox -- The unlooked-for prince -- The simpleton -- The street musicians
+  -- The twin brothers -- Cannetella -- The ogre -- A fairy's blunder -- Long, Broad,
+  and Quickeye -- Prunella.
+title: The Grey Fairy Book
+url: http://www.gutenberg.org/ebooks/33547
